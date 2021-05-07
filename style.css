@@ -1,0 +1,25 @@
+.main {
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+#rounded {
+    display: flex;
+    justify-content: center;
+}
+img {
+    margin: auto;
+    border-radius: 50%;
+}
+
+.button {
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    background-color: lightcoral;
+    border: none;
+    margin-top: 10px;
+}
